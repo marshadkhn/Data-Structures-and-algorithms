@@ -11,14 +11,11 @@ public class onetoNWithoutLoop {
         System.out.print("Numbers are: ");
         withoutArray(x);
     }
-    public static void withoutArray(int x){
+    public static void withoutArray(int x) {
         //base condition
-        if(x > 0){
-            withoutArray(x-1);//recursion
+        if (x > 0) {
+            withoutArray(x - 1);//recursion
             System.out.print(x + " ");
         }
-    }
-    public static void withArray(int n){
-
     }
 }
