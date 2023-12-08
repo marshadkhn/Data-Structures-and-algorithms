@@ -4,7 +4,8 @@
 *.class
 *extraCode
 *package
-*.iml
+*Data-Structures-and-algorithms.iml
+
 
 #Directory
 /out
