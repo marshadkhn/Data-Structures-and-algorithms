@@ -4,6 +4,7 @@
 *.class
 *extraCode
 *package
+*.iml
 
 #Directory
 /out
